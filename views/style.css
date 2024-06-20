@@ -1,0 +1,22 @@
+
+body {
+    background-color: #f8f9fa;
+}
+header {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 15px 0;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+}
+.mt-n1 {
+    margin-top: -0.25rem !important;
+  }
